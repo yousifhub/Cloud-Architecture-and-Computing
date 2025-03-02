@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
         id: '422103',
         section: 'A4',
         course: 'CSC322 - Cloud Architecture and Computing',
-        college: 'Faculty Artificial Intelligence',
+        faculty: 'Artificial Intelligence',
         department: 'Artificial Intelligence',
         university: 'Delta University for Science and Technology'
     });
