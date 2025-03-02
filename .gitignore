@@ -1,2 +1,5 @@
 section 4/
 needs.txt
+package.json
+package-lock.json
+node_modules/
